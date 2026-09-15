@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128">
+  <rect width="128" height="128" rx="28" fill="#0f1a12"/>
+  <!-- Drachenkopf, Profil nach rechts, giftgrün -->
+  <g fill="#7CFC3A">
+    <!-- Schädel + Schnauze -->
+    <path d="M30 70 C30 46 48 34 70 36 L98 46 L112 58 L96 62 L104 72 L88 70 L72 80 L58 84 C42 86 30 82 30 70 Z"/>
+    <!-- Hörner -->
+    <path d="M62 38 L54 16 L70 32 Z"/>
+    <path d="M76 40 L78 20 L86 40 Z"/>
+    <!-- Hals -->
+    <path d="M32 74 L28 108 L52 108 L58 84 Z"/>
+    <!-- Rückenzacken -->
+    <path d="M28 108 L34 92 L40 108 Z M40 108 L46 94 L52 108 Z"/>
+  </g>
+  <!-- Auge -->
+  <circle cx="78" cy="52" r="5" fill="#0f1a12"/>
+  <circle cx="79.5" cy="51" r="1.8" fill="#7CFC3A"/>
+  <!-- Nüster + Zahn -->
+  <circle cx="104" cy="57" r="1.6" fill="#0f1a12"/>
+  <path d="M92 64 L94 70 L97 64 Z" fill="#0f1a12"/>
+  <!-- Feuer / Blitz -->
+  <path d="M112 66 L124 60 L118 70 L126 72 L110 80 L114 72 Z" fill="#B6FF6A"/>
+</svg>

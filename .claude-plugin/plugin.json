@@ -1,0 +1,10 @@
+{
+  "name": "hypd",
+  "description": "🐉 What's hyped right now: Hacker News top stories, new MCP servers and this week's GitHub repos, in one /hypd command.",
+  "version": "0.1.0",
+  "author": { "name": "Niko (Vartakt)", "url": "https://github.com/Seakuh" },
+  "homepage": "https://github.com/Seakuh/hypd",
+  "repository": "https://github.com/Seakuh/hypd",
+  "license": "MIT",
+  "keywords": ["hacker-news", "mcp", "github-trending", "news", "statusline"]
+}

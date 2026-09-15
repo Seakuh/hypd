@@ -1,0 +1,13 @@
+{
+  "name": "hypd",
+  "owner": { "name": "Niko (Vartakt)", "url": "https://github.com/Seakuh" },
+  "description": "🐉 hypd – what's hyped right now, inside Claude Code",
+  "plugins": [
+    {
+      "name": "hypd",
+      "source": "./",
+      "description": "Hacker News top stories, new MCP servers and GitHub repos of the week via /hypd",
+      "version": "0.1.0"
+    }
+  ]
+}
