@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/icon.svg" width="96" alt="hypd dragon"></p>
+<p align="center"><img src="assets/icon.png" width="160" alt="hypd dragon"></p>
 
 # 🐉 hypd
 
